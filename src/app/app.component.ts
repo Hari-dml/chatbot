@@ -11,7 +11,7 @@ import { OnInit } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent implements OnInit {
-  title = 'chatbot';
+  title = 'Chatbot';
 
   ngOnInit(): void {
     initFlowbite();
